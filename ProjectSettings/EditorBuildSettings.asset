@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: c5b582b359fe7c743914be2ff6519da0
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: bffd33398b4c5a041ba3cc17356c586a
+  - enabled: 1
+    path: Assets/Scenes/meg_teach.unity
+    guid: 03d606d53c71d734795e2131d71c08a7
+  - enabled: 1
+    path: Assets/Scenes/meg1_1.unity
+    guid: 0b85fa2e1e62c0345a9c343db4caae66
+  - enabled: 1
+    path: Assets/Scenes/meg1_2.unity
+    guid: 57490b92e149c6348b3313d9e601be6d
+  - enabled: 1
+    path: Assets/Scenes/meg1_3.unity
+    guid: 8d90b07f1449f694dbe2e5cc4e0aabe3
+  - enabled: 1
+    path: Assets/Scenes/meg2_1.unity
+    guid: e38c6d9920c42bc4bb2ef3589008ddde
+  - enabled: 1
+    path: Assets/Scenes/meg2_2.unity
+    guid: 518f3bed957dca64085cd3c5cc647d7b
+  - enabled: 1
+    path: Assets/Scenes/meg2_3.unity
+    guid: d075042d5ad9dcd4a8113f464b3f348b
+  - enabled: 1
+    path: Assets/Scenes/meg3_1.unity
+    guid: a1004f986e5bb484a828793a9d09a1a2
+  - enabled: 1
+    path: Assets/Scenes/meg3_2.unity
+    guid: 0930e444b1c27d1498aee26e4ceb643d
+  - enabled: 1
+    path: Assets/Scenes/meg3_3.unity
+    guid: 5b77a22ec7c53d14f872c0de75bb0a85
+  - enabled: 1
+    path: Assets/Scenes/pingpong.unity
+    guid: fc4462371d8b4f84cbec7772bfd16ffb
+  m_configObjects: {}
